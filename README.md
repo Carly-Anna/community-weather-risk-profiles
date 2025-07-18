@@ -41,17 +41,6 @@ This project identifies and visualizes risk communication gaps for severe weathe
 
 ---
 
-## Next Steps
-
-1. Collect and preprocess SVI and ACS data for Calhoun County
-2. Create base maps showing vulnerable areas
-3. Overlay historical tornado warnings and hazard zones
-4. Publish insights and visuals to GitHub and optionally social/blog
-
----
-
----
-
 ## Author
 
 **Carly Anna**  
