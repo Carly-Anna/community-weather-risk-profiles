@@ -28,17 +28,6 @@ This project identifies and visualizes risk communication gaps for severe weathe
 - Overlay historical warning polygons with community demographics
 - Create markdown reports that explain findings
 - Highlight where public outreach or messaging adjustments are most needed
-
----
-
-## Tools & Technologies
-
-- **Python**, **Jupyter Notebook**, **Folium** or **Leaflet.js**
-- **Pandas**, **GeoPandas**, **Plotly** (if Python)
-- **Markdown** for narrative reports
-- **VS Code** for development
-- **GitHub Pages** (optional for publishing)
-
 ---
 
 ## Author
