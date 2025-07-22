@@ -1,4 +1,4 @@
-# 🌪️ Community Weather Risk Profiles – Calhoun County, Alabama
+# Community Weather Risk Profiles – Calhoun County, Alabama
 
 This project identifies and visualizes risk communication gaps for severe weather in Calhoun County, Alabama. It combines behavioral science, data science, and communication to highlight vulnerabilities in the ways in which weather warnings are received and acted upon, particularly in socially vulnerable or under-connected communities. 
 ---
